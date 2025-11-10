@@ -7,7 +7,7 @@ Working everyday to be better</p>
 🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
 ✍️  In my free time, I do basketball practice, swim and Play game with friends as hobbies.<br>
 💬  Feel free to reach out to me for some interesting discussion.<br>
-✉️  You can shoot me an email at anthony.moutafiann@gmail.com ! I'll try to respond as soon as I can.</p>
+✉️  You can shoot me an email at anthony.moutafiann.work@gmail.com ! I'll try to respond as soon as I can.</p>
 
 
 
