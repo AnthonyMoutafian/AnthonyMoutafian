@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Hello There</h1>
+<p>I am 18y old, Front-End Engineer <br>
+Working everyday to be better</p>
+<h2>About Me</h2>
+<p>💡  I like to explore new technologies and develop software solutions and quick hacks.<br>
+🎓  I'm currently studying at SmartCode's IT Web Development Course.<br>
+🌱  I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.<br>
+✍️  In my free time, I do basketball practice, swim and Play game with friends as hobbies.<br>
+💬  Feel free to reach out to me for some interesting discussion.<br>
+✉️  You can shoot me an email at anthony.moutafiann@gmail.com ! I'll try to respond as soon as I can.</p>
 
-<!--
-**AnthonyMoutafian/AnthonyMoutafian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,linkedin,vscode,figma,git,github,vercel,python,sass,ps,npm,postman,windows,discord,bootstrap,tailwind)](https://skillicons.dev)
