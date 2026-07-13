@@ -12,4 +12,4 @@ Working everyday to be better</p>
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,linkedin,vscode,figma,git,github,vercel,python,sass,ps,pr,npm,pycharm,postman,windows,discord,bootstrap,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,linkedin,vscode,figma,git,github,vercel,python,sass,ps,pr,npm,pycharm,postman,windows,discord,bootstrap,tailwind,mongodb,vite,supabase,nodejs,)](https://skillicons.dev)
